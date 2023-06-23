@@ -1,1 +1,1 @@
-TeckBlog e um site de tecnologia em css e html.
+Canal de tecnologia um blog exclusivamente falando de tecnologia.
