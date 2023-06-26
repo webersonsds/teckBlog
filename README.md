@@ -1,1 +1,1 @@
-Canal de tecnologia um blog exclusivamente falando de tecnologia. blog Teck
+Canal de tecnologia um blog exclusivamente falando de tecnologia. 
